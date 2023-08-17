@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-int main(){
 
-cout<<"Hi";
-cout<<"New Line Added";
+int main(){
+cout<<"This is my second program";
 return 0;
+
 }
